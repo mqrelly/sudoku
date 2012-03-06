@@ -1,0 +1,11 @@
+# Samples for testing and performace measuring sudoku solver
+samples/1.table
+samples/2.table
+samples/3.table
+samples/4.table
+samples/5.table
+samples/6h.table
+samples/7h.table
+samples/8h.table
+samples/9h.table
+samples/10vh.table
